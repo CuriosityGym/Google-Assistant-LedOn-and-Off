@@ -35,12 +35,12 @@ Adafruit_NeoPixel strip = Adafruit_NeoPixel(1, PIN, NEO_GRB + NEO_KHZ800);
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "80a9953b71584ee4854e0fbf71823901";
+char auth[] = "XXXXXXXXXXXXXXXXXXXXXXXXXXX"; //enter Blynk Auth Token
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "Mitesh";
-char pass[] = "riyashah";
+char ssid[] = "XXXXXXXXXXX"; //enter wifi SSID
+char pass[] = "XXXXXXXXXXX"; //enter wifi Password
 
 // Hardware Serial on Mega, Leonardo, Micro...
 #define EspSerial Serial
